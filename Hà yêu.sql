@@ -1,0 +1,1 @@
+SELECT * FROM firstdatabase.department;
